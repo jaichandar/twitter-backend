@@ -1,0 +1,5 @@
+{
+    "PORT":"8956",
+    "mongoURL":"mongodb://localhost:27017/backend",
+    "jwtKey":"secretKey"
+}
